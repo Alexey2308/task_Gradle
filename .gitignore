@@ -3,6 +3,7 @@
 /.idea/workspace.xml
 /out
 /target
+/build
 *.xml
 *.idea
 *.iml
